@@ -7,7 +7,7 @@ public class Test {
 
 		Scanner sc = new Scanner(System.in);
 
-		double[] arr = { 85.6, 79.5, 83.1, 80.0, 78.2, 75.0 };
+		double[] arr = { 85.6, 79.5, 83.1, 80.0, 78.2, 75.0,80.0,90.0,70.0,60.0};
 
 		int input1 = sc.nextInt();
 
